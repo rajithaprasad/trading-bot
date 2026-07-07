@@ -1,1 +1,6 @@
-
+MetaTrader5
+pandas
+ta
+numpy
+matplotlib
+requests
