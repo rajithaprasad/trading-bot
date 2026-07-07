@@ -1,0 +1,47 @@
+[
+    {
+        "timestamp": "2026-07-07T19:06:30.773479",
+        "symbol": "EURUSD",
+        "type": "BUY",
+        "price": 1.1438,
+        "sl": 1.1408,
+        "tp": 1.1498,
+        "lot_size": 0.01,
+        "reasons": [
+            "EMA Bullish",
+            "MACD Bullish",
+            "Price Above EMA"
+        ],
+        "result": "pending"
+    },
+    {
+        "timestamp": "2026-07-07T19:09:03.273090",
+        "symbol": "EURUSD",
+        "type": "BUY",
+        "price": 1.14389,
+        "sl": 1.1408900000000002,
+        "tp": 1.14989,
+        "lot_size": 0.01,
+        "reasons": [
+            "EMA Bullish",
+            "MACD Bullish",
+            "Price Above EMA"
+        ],
+        "result": "pending"
+    },
+    {
+        "timestamp": "2026-07-07T19:12:06.445173",
+        "symbol": "EURUSD",
+        "type": "BUY",
+        "price": 1.14402,
+        "sl": 1.1410200000000001,
+        "tp": 1.15002,
+        "lot_size": 0.01,
+        "reasons": [
+            "EMA Bullish",
+            "MACD Bullish",
+            "Price Above EMA"
+        ],
+        "result": "pending"
+    }
+]
